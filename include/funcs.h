@@ -4,6 +4,8 @@
 void foo();
 void goo();
 void my_stable();
+void my();
+
 
 #endif
 
