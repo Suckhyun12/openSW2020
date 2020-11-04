@@ -3,6 +3,7 @@
 
 void foo();
 void goo();
+void my_stable();
 
 #endif
 
