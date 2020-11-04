@@ -2,7 +2,7 @@
 #define __FUNCS_H
 
 void foo();
-void goo();
+void my();
 
 #endif
 

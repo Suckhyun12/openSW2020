@@ -5,3 +5,8 @@ void foo()
 {
  printf("hello foo\n");
 }
+
+void my()
+{
+  printf("some\n");
+}
